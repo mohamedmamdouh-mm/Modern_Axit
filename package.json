@@ -1,0 +1,16 @@
+{
+  "name": "modern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d AXIT"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://mohamedmamdouh-mm.github.io/Modern_Axit",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
